@@ -10,3 +10,5 @@
 ### [8. Multi Linear Regression](https://github.com/Kshitij-2107/Multi-Linear-Regression.git)
 ### [9. Logistic Regression](https://github.com/Kshitij-2107/Logistic-Regression.git)
 ### [10. Clustering](https://github.com/Kshitij-2107/Clustering.git)
+### [11. PCA](https://github.com/Kshitij-2107/PCA.git)
+### [12. Associaton Rules](https://github.com/Kshitij-2107/Association-Rules.git)
