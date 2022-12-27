@@ -12,3 +12,6 @@
 ### [10. Clustering](https://github.com/Kshitij-2107/Clustering.git)
 ### [11. PCA](https://github.com/Kshitij-2107/PCA.git)
 ### [12. Associaton Rules](https://github.com/Kshitij-2107/Association-Rules.git)
+### [14. Naive Bayes](https://github.com/Kshitij-2107/Naive-Bayes.git)
+### [15. KNN](https://github.com/Kshitij-2107/KNN.git)
+### [16. Decision Tree](https://github.com/Kshitij-2107/Decision-Tree.git)
