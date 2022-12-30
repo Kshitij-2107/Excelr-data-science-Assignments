@@ -17,3 +17,5 @@
 ### [17. Decision Tree](https://github.com/Kshitij-2107/Decision-Tree.git)
 ### [18. Random Forests](https://github.com/Kshitij-2107/Random-Forests.git)
 ### [19. Neural Networks](https://github.com/Kshitij-2107/Neural-Networks.git)
+### [20. Support Vector Machines](https://github.com/Kshitij-2107/Support-Vector-Machines.git)
+### [21. Forecasting](https://github.com/Kshitij-2107/Forecasting.git)
