@@ -13,6 +13,7 @@
 ### [11. PCA](https://github.com/Kshitij-2107/PCA.git)
 ### [12. Associaton Rules](https://github.com/Kshitij-2107/Association-Rules.git)
 ### [13. Recommendation System](https://github.com/Kshitij-2107/Recommendation-System.git)
+### [14. Text Mining](https://github.com/Kshitij-2107/Text-Mining.git)
 ### [15. Naive Bayes](https://github.com/Kshitij-2107/Naive-Bayes.git)
 ### [16. KNN](https://github.com/Kshitij-2107/KNN.git)
 ### [17. Decision Tree](https://github.com/Kshitij-2107/Decision-Tree.git)
